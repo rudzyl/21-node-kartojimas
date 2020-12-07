@@ -1,0 +1,17 @@
+{
+  "name": "21-node-kartojimas",
+  "version": "1.0.0",
+  "description": "demo node",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "live-server": "^1.2.1",
+    "nodemon": "^2.0.6"
+  },
+  "scripts": {
+    "dev": "live-server --port=8080 ./src/",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
